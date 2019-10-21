@@ -89,4 +89,4 @@ new Watcher(obj,'a',function(v) {
 	console.log("改变DOM")
 })
 
-obj.a
+obj.a = 3
